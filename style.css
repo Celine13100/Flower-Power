@@ -1,0 +1,75 @@
+body{
+	margin: 0px;
+	color: black;
+	background: white;
+}
+h1 {
+	font-family: 'Francois One', sans-serif;
+	font-size: 60px;
+	color: #F7D488;
+	}
+p{
+	font-family: 'Francois One', sans-serif;
+	font-size: 20px; 
+	line-height: 20px;
+	color: #E2D4B7;
+	font-weight: 300;
+}
+h2{
+	font-family: 'Francois One', sans-serif;
+}
+a{
+	color: white;
+}
+a:hover{
+	transition: 2s ease; 
+	color: black;
+}
+img{
+	width: 100px;
+}
+.img-border{
+	width: 100px;
+	border: 1px solid black;
+}
+#header{
+	background-color: #7B565E;
+	padding-top: 150px;
+	padding-bottom: 150px;
+	background-image: url('images/Fleur.jpeg');
+	background-size: cover;
+	background-position: center;
+}
+#header p{
+	color: white;
+}
+#header a{
+	color: white;
+	font-family: 'Francois One', sans-serif;
+}
+#footer{
+	background-color: black;
+}
+#footer h2{
+	color: white;
+	font-size: 15px;
+}
+#footer p{
+	color: white;
+	font-size: 15px;
+}
+#footer a{
+	color: white;
+}
+#avantages h3{
+	text-align: center;
+	font-family: 'Francois One', sans-serif;
+}
+.gros-titre{
+	color: black;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.btn-warning:hover{
+	background-color: #83BCFF;
+}
